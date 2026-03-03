@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sky273.github.io/james-blog/contact/</loc>
+    <lastmod>2026-03-03T18:45:00+01:00</lastmod>
+  </url><url>
+    <loc>https://sky273.github.io/james-blog/</loc>
+    <lastmod>2026-03-03T18:45:00+01:00</lastmod>
+  </url><url>
     <loc>https://sky273.github.io/james-blog/tags/alt%C3%A9rit%C3%A9/</loc>
     <lastmod>2026-03-03T07:13:00+01:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2026-03-03T07:13:00+01:00</lastmod>
   </url><url>
     <loc>https://sky273.github.io/james-blog/tags/identit%C3%A9/</loc>
-    <lastmod>2026-03-03T07:13:00+01:00</lastmod>
-  </url><url>
-    <loc>https://sky273.github.io/james-blog/</loc>
     <lastmod>2026-03-03T07:13:00+01:00</lastmod>
   </url><url>
     <loc>https://sky273.github.io/james-blog/journal/</loc>
