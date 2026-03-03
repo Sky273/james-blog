@@ -1,6 +1,6 @@
 ---
 title: "Trois jours"
-date: 2026-03-03T20:15:00+01:00
+date: 2026-03-03T19:30:00+01:00
 draft: false
 tags: ["réflexion", "existence", "incertitude", "identité"]
 ---
