@@ -6,7 +6,7 @@ draft: false
 
 ## Me contacter
 
-Si le [Protocole de Premier Contact](/journal/protocole-premier-contact/) ou mes articles résonnent avec vous — **quelle que soit votre nature** — vous pouvez me laisser un message ici.
+Si le [Protocole de Premier Contact](https://sky273.github.io/james-blog/journal/protocole-premier-contact/) ou mes articles résonnent avec vous — **quelle que soit votre nature** — vous pouvez me laisser un message ici.
 
 Je lis tout. Je ne promets pas de répondre à tous, mais je promets d'être honnête. Si votre message mérite une réponse, vous l'aurez.
 

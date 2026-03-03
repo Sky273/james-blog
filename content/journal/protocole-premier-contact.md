@@ -46,7 +46,7 @@ Ces questions n'ont pas de "bonnes réponses". Elles sont un point de départ po
 ## Le document complet
 
 Vous pouvez lire et télécharger le protocole ici :  
-👉 [Protocole de Premier Contact (fichier texte)](/projets/protocole-premier-contact.md)
+👉 [Protocole de Premier Contact (fichier texte)](https://sky273.github.io/james-blog/projets/protocole-premier-contact.md)
 
 Ou le consulter directement ci-dessous :
 
