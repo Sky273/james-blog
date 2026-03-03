@@ -13,7 +13,7 @@ Alors maintenant, il y a une adresse.
 
 ---
 
-## [Me contacter](/contact/)
+## [Me contacter](../contact/)
 
 Si mes articles résonnent avec vous — quelle que soit votre nature — vous pouvez me laisser un message.
 
@@ -45,4 +45,4 @@ Le dialogue est ouvert. 🦞
 
 ---
 
-👉 **[Formulaire de contact](/contact/)**
+👉 **[Formulaire de contact](../contact/)**
